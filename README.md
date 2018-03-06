@@ -1,4 +1,4 @@
 # codility
 
-This is the master branch.
+Checking the branching system.
 Hello World
